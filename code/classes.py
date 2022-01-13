@@ -1,7 +1,3 @@
-from re import X
-from tkinter import Y
-
-
 class Point:
     """This is a point representation"""
 
