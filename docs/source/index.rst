@@ -20,5 +20,6 @@ Contents
 
    usage
    api
+   classes
 
 Lumache has its documentation hosted on Read the Docs.  Fezzik agrees that there are rocks ahead.
